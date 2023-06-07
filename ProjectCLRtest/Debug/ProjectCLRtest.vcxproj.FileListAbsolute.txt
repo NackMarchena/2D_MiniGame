@@ -1,0 +1,14 @@
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.Configuracion.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.Credito.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.GanadorWin.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.Instrucciones.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.JuegoMain.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.MenuPrincipal.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.RecursoMedia.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.SelectorNivel.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.vcxproj.GenerateResource.cache
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.exe
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.pdb
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.vcxprojAssemblyReference.cache
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.JuegoPerdido.resources
+C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.PresentacionInicio.resources

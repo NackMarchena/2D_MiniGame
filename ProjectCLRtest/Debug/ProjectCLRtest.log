@@ -1,0 +1,7 @@
+﻿  JuegoMain.cpp
+  MenuPrincipal.cpp
+  PresentacionInicio.cpp
+  SelectorNivel.cpp
+  Generando código...
+  Configuracion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProjectCLRtest.vcxproj -> C:\Users\SAPSA\source\repos\ProjectCLRtest\Debug\ProjectCLRtest.exe

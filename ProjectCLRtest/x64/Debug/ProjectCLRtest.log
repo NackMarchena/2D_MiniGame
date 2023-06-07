@@ -1,0 +1,29 @@
+﻿  Configuracion.cpp
+  Credito.cpp
+  GanadorWin.cpp
+  Instrucciones.cpp
+  JuegoMain.cpp
+  JuegoPerdido.cpp
+  LogicaJuego.cpp
+  MenuPrincipal.cpp
+  PAgente.cpp
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PAgente.cpp(137,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PAliados.cpp
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PAliados.cpp(114,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PersonajeBase.cpp
+  PHabitante.cpp
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(141,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(141,103): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(145,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(145,102): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(152,120): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(152,107): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PHabitante.cpp(201,26): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PLider.cpp
+  PresentacionInicio.cpp
+  SelectorNivel.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\PAliados.cpp(149): warning C4715: 'GenPAliados::getAliado': no todas las rutas de acceso de control devuelven un valor
+  Configuracion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProjectCLRtest.vcxproj -> D:\UNIVERSIDAD\2do ciclo\PROGRAMACION II\CODIGOS FINALES\hi\ProjectCLRtest\x64\Debug\ProjectCLRtest.exe
